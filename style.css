@@ -136,3 +136,45 @@ h3{
     max-width:100%;
     padding: 0%;
 }
+.my-app{
+    background-image: url(images/shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-position:left;
+    background-size: 150px;
+    margin: 2%;
+    max-width:100%;
+    padding: 0%;
+}
+.app-feauture{
+    background: linear-gradient(180deg,rgb(202, 87, 25),rgb(240, 54, 13) );
+    border-radius: 5%;
+    padding: 10px 40px;
+    text-align: center;
+    font-size:20px ;
+    text-decoration: none;
+    font-weight: 600;
+    color: white;
+    margin-top:30%
+}
+.app-title{
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    position: absolute;
+}
+
+.bottom-part{
+    background-color: black;
+    text-align: center;
+    color: blanchedalmond;
+    padding: 10px;
+}
+.color-text2{
+    color: red;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+h4{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
